@@ -12,6 +12,6 @@
     <tags></tags>
   </metadata>
    <files>
-    <file src="pre-setup.ps1" target="setup" />
+    <file src="pre-setup.ps1" target="tools" />
   </files>
 </package>

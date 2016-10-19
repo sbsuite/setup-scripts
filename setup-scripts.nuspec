@@ -12,7 +12,7 @@
     <tags></tags>
   </metadata>
    <files>
-    <file src="pre-setup.ps1" target="setup" />
-    <file src="post-setup.ps1" target="setup" />
+    <file src="pre-setup.ps1" target="tools" />
+    <file src="post-setup.ps1" target="tools" />
   </files>
 </package>

@@ -12,7 +12,7 @@
     <tags></tags>
   </metadata>
    <files>
-    <file src="pre-setup.ps1" target="tools" />
-    <file src="post-setup.ps1" target="tools" />
+    <file src="wix.rb" target="tools" />
+    <file src="utils.rb" target="tools" />
   </files>
 </package>

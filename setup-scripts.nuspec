@@ -14,5 +14,6 @@
    <files>
     <file src="wix.rb" target="tools" />
     <file src="utils.rb" target="tools" />
+    <file src="setup.rb" target="tools" />
   </files>
 </package>
